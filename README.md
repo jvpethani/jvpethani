@@ -1,3 +1,4 @@
+![logo](https://github.com/jvpethani/jvpethani/blob/main/work.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Jignesh Pethani</h1>
 <h3 align="center">A passionate Security resercher from India</h3>
 
